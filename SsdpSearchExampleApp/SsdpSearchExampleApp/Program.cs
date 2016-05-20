@@ -1,4 +1,12 @@
-﻿using Rssdp;
+// ****************************************************************************
+// <author>Nikolaos Kokkinos</author>
+// <email>nik.kokkinos@windowslive.com</email>
+// <date>20.05.2016</date>
+// <project>SsdpSearchExampleApp</project>
+// <web>http://nikolaoskokkinos.wordpress.com/</web
+// ****************************************************************************
+
+using Rssdp;
 using System;
 using System.Collections.Generic;
 using System.Linq;
